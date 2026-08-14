@@ -39,3 +39,19 @@ Average Response Time: 437 ms
 Throughput: 4.5 req/sec
 
 Error Rate: 0.00%
+
+## Deliverables
+
+This repository contains:
+
+- Postman Collection (.json)
+- Postman Environment (.json) 
+- JMeter Test Plan (.jmx)
+- Screenshots of Postman Test Run, JMeter Summary Report and Results Tree
+- README.md
+
+Submitted By:
+
+**Khizra Haroon**
+
+As part of the **10Pearls QA Internship**.
