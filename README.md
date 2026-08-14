@@ -50,8 +50,7 @@ This repository contains:
 - Screenshots of Postman Test Run, JMeter Summary Report and Results Tree
 - README.md
 
+
 Submitted By:
-
 **Khizra Haroon**
-
 As part of the **10Pearls QA Internship**.
