@@ -53,4 +53,5 @@ This repository contains:
 
 Submitted By:
 **Khizra Haroon**
+
 As part of the **10Pearls QA Internship**.
